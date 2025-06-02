@@ -29,7 +29,7 @@ LibraryApp is a Windows Forms application developed in C# that functions as a co
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository_url_here]
+    git clone [https://github.com/Dagidag7/MyLibrary_App.git]
     cd LibraryApp
     ```
 2.  **Open in Visual Studio:**
@@ -106,3 +106,5 @@ The project relies on the following key NuGet packages, as specified in `package
 * `System.Threading.Tasks.Extensions`
 
 These dependencies will be automatically managed by NuGet when you build the project in Visual Studio.
+* **AI used**
+* 'Gemini ai'
